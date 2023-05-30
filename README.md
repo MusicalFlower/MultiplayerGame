@@ -4,7 +4,7 @@ A repository for testing the functionality of a multiplayer Unity game with Mirr
 ## Uploading the game to steam
 1. Download the folder from this repository.
 2. Open Steam Library. In the bottom left, navigate to ADD A GAME > Add a Non-Steam Game...
-3. Select Browse and navigate to the MultiplayerGame folder. Double click on executable.
+3. Select Browse and navigate to the MultiplayerGame folder. Double click on executable. Then select ADD SELECTED PROGRAMS.
 4. Multiplayer Game should now be in the Steam Library. Click on the game and launch it like any other Steam game.
 
 ## Hosting a game
